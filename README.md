@@ -17,11 +17,12 @@ They need you (a fancy senior cook 🧑‍🍳) to help them with something fres
   - ingredients
   - description (fancy if possible)
 
-During the service, the team will need an app to show them what to focus on. You must develop **a small interface** to browser recipes. You must handle categories and how to handle the preparation. Essentially this is a digital recipe book.
+During the service, the team will need an app to show them what to focus on. You must develop **a small interface** to browse recipes. You must manage categories, listing recipes and viewing a single recipe. Essentially this is a digital recipe book.
 
 ### If you would like to go further
 - Feel free to implement any additional feature that would fit in this project, but first ensure the minimum is here.
 - A search field can be added to quickly look for a **dish name** or a specific **ingredient**.
+- You could add a "make this recipe" with checkboxes, like a todo, to help inexperienced kitchen clerks prepare a recipe. 
 - At this part of the exercise, you could let the whole team access the app with a single username + password combo (like `supercrew` + `secretsaucepwd`).
 - The restaurant will have a designated crew specialized in their own field, like a `sauce chef`, `vegetable chef` and so on... You can get an example of a possible hierarchy on [this page](https://www.highspeedtraining.co.uk/hub/kitchen-hierarchy-brigade-de-cuisine/). You could handle the fact that a chef **will not have a recipe tied to something that they cannot do**.
 - If your crew feels creative, you can provide the ability to **create**, **edit** and **delete** the recipes of each specialized chef's category.
